@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: MainTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.122 s <<< FAILURE! - in MainTest
+testGetArea  Time elapsed: 0.061 s  <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at MainTest.assertTrue(MainTest.java:159)
+	at MainTest.testGetArea(MainTest.java:65)
+
